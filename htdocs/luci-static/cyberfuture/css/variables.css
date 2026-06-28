@@ -1,0 +1,11 @@
+
+:root {
+  --bg: #0b1020;
+  --card: rgba(255,255,255,0.06);
+  --text: #e6f1ff;
+  --accent: #00d4ff;
+}
+
+[data-theme="cyber-red"] { --accent: #ff2d55; }
+[data-theme="cyber-purple"] { --accent: #8b5cf6; }
+[data-theme="cyber-green"] { --accent: #22c55e; }
